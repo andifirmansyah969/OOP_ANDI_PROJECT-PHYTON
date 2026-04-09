@@ -1,0 +1,20 @@
+a = 10
+b = 3
+
+print("x= a+b")
+print("x=",a+b)
+print("\n")
+print("y=a-b")
+print("=",a-b)
+print("\n")
+print("c=a*b")
+print("=",a*b)
+print("\n")
+print("z=a/b")
+print("=",a/b)
+print("\n")
+print("t=a%b")
+print("=",a%b)
+print("\n")
+print("p=a**b")
+print("=",a**b)
